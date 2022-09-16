@@ -1,0 +1,23 @@
+{
+  "name": "random-messages-str",
+  "version": "1.0.0",
+  "description": "Randon messages strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elto82/random-messages-str.git"
+  },
+  "author": "elto.82@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elto82/random-messages-str/issues"
+  },
+  "homepage": "https://github.com/elto82/random-messages-str#readme",
+  "bin": {
+    "random-messages-str": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
